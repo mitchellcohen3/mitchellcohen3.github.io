@@ -7,3 +7,26 @@
 
 "Vision":
   color: "#009f36"
+
+"RA-L":
+  # color: "#FF6961"
+  # color: "#C41E3A"
+  # color: "#FFC20A"
+  color: "#1A85FF"
+
+"RA-L/IROS":
+  # color: "#FF6961"
+  # color: "#C41E3A"
+  # color: "#FFC20A"
+  color: "#1A85FF"
+
+"RA-L/ICRA":
+  # color: "#FF6961"
+  # color: "#C41E3A"
+  color: "#1A85FF"
+
+"ICRA":
+  # color: "#009f36"
+  # color: "#0C7BDC"
+  color: "#D41159"
+
