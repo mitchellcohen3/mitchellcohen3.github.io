@@ -16,7 +16,7 @@ SLAM and state estimation that I've created for my own reference.
       <div class="card shadow-sm">
         <div class="card-body">
           <h4 class="card-title">SLAM Sensor Models and Jacobian Derivations</h4>
-          <p class="card-text">A collection of useful derivations related to sensor models commonly found in robotic state estimation. (last updated: January 29th, 2025)</p>
+          <p class="card-text">A collection of useful derivations related to sensor models commonly found in robotic state estimation. (last updated: March 14th, 2025)</p>
           <a href="{{ site.baseurl }}/assets/pdf/notes/slam_doc.pdf" class="btn btn-primary" target="_blank">
             View PDF
           </a>
