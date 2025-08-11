@@ -27,6 +27,18 @@ SLAM and state estimation that I've created for my own reference.
     <div class="col-md-8 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
+          <h4 class="card-title">Lie Groups Summary</h4>
+          <p class="card-text">A summary doc containing some important concepts related to Lie groups. Based heavily on "A Micro Lie Theory for State Estimation in Robotics", by Joan Solà, Jeremie Deray and Dinesh Atchuthan. (last updated: August 11th, 2025)</p>
+          <a href="{{ site.baseurl }}/assets/pdf/notes/lie_groups_doc.pdf" class="btn btn-primary" target="_blank">
+            View PDF
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-8 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
           <h4 class="card-title">Introduction to the Multi-State Contraint Kalman Filter</h4>
           <p class="card-text">Slides outlining the main components of the MSCKF framework for visual-inertial navigation.</p>
           <a href="{{ site.baseurl }}/assets/pdf/notes/msckf_presentation_slides.pdf" class="btn btn-primary" target="_blank">
