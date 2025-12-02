@@ -39,8 +39,8 @@ SLAM and state estimation that I've created for my own reference.
     <div class="col-md-8 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h4 class="card-title">IMU Modelling and Kinematics</h4>
-          <p class="card-text">Basic IMU modelling, kinematics, and Jacobian derivations (last updated: September 2nd, 2025)</p>
+          <h4 class="card-title">Inertial Navigation: IMU Modelling, Kinematics, and Preintegration</h4>
+          <p class="card-text">Derivations related to inertial navigation, including preintegration on the group of extended poses (last updated: December 1st, 2025)</p>
           <a href="{{ site.baseurl }}/assets/pdf/notes/imu_kinematics.pdf" class="btn btn-primary" target="_blank">
             View PDF
           </a>
