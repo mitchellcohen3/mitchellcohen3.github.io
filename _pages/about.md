@@ -21,12 +21,11 @@ I am completing my Ph.D in robotic perception at McGill University under the
 supervision of [Professor James
 Forbes](https://www.mcgill.ca/mecheng/james-forbes) in the
 [DECAR](https://www.decar.ca/) research group. Broadly, my research interests are in the
-areas of robotic state estimation, simulatenous localization and
+areas of robotic state estimation, simultaneous localization and
 mapping (SLAM), computer
 vision, and optimization, with a focus on improving
 navigation techniques for robots. My current research focuses on the fusion of **camera** and **inertial** data
-to perform SLAM. Specifically, I am interested in exploring how the use of
-**semantic information** can be used within visual-inertial SLAM pipelines.
+to perform SLAM. Specifically, I am interested in developing **consistent** and **efficient** algorithms for visual-inertial navigation, to enable reliable, long-term autonomy for robotic systems.
 
-I also recieved a **Master's in Mechanical Engineering** in 2020 from McGill
+I also received a **Master's in Mechanical Engineering** in 2020 from McGill
 University, where I focused on developing novel control and state estimation algorithms for both fixed-wing and multirotor UAVs. 
